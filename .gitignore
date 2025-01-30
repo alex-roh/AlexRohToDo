@@ -72,3 +72,12 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+node_modules/
+android/.gradle/
+ios/Pods/
+android/app/build/
+ios/build/
+.idea/
+.vscode/
+package-lock.json
+.DS_Store
